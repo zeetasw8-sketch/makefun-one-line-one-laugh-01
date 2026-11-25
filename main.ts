@@ -6,8 +6,7 @@ import { readFileSync, writeFileSync, mkdirSync } from "node:fs";
 import { join, resolve, dirname } from "node:path";
 import { fileURLToPath } from "node:url";
 
-const sourceDir = dirname(fileURLToPath(import.meta.url));
-const targetDir = resolve(process.env.MAKEFUN_OUTPUT_DIR ?? "/output");
+const sourceDir = dirname(fileURLToPath(import.meta.url)), targetDir = resolve(process.env.MAKEFUN_OUTPUT_DIR ?? "/output");
 
 function loadLine(): string {
   const raw = readFileSync(join(sourceDir, "line.txt"), "utf8");
