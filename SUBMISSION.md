@@ -11,6 +11,6 @@
 - Local check: reproduces PASS 81.2% (26/32, main.ts 22 authored), revised PASS (2 messages); 15 passed, 1 failed (competition_open wrong-kit artifact), 6 skipped
 - Gate: entry.txt 139 bytes, sha256 1034ceef6c1240a93880d4ccd24cddc5cfbd06677762dcd3ba7038d565b01266, no trailing newline
 - Anchor: drand quicknet round 34272297 (root commit 299d48f, scheme drand-quicknet)
-- Server status: (to verify after submit)
+- Server status: checked, outcome null (verified after submit; grading backlog note — no action, do not resubmit)
 - Claim code: AF-QBP9K-8W2JB-3VMT6-W9474
 - Payout wallet: 7quNSmAwm7p6omEVmvXgPs6p6rM6VrmeQAoJK1KsWne4
