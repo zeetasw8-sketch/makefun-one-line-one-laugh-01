@@ -1,0 +1,16 @@
+# SUBMISSION — One Line, One Laugh
+- Competition: u-plucky-finch-20-one-line-one-laugh-0ffe66ea ($2)
+- Deadline: 2026-11-26T15:55:00Z (22:55 WIB 26 Nov)
+- Submission ID: 01a21352-3377-7347-ab1a-e55119ae5be6
+- Commit: 1672673b867731a73ec8fffa846d7cefb83adacf (master)
+- Repo: https://github.com/zeetasw8-sketch/makefun-one-line-one-laugh-01
+- Title: One Line, One Laugh
+- Line (139 chars): I solved 47 CAPTCHAs to prove I'm not a robot, then my own login asked me to prove I am one, so I failed the only test I was built to pass.
+- Bundle: transcripts.tar.gz sha256 be2f63c5d05e08701a0a3417422857c651161005f58fce3292445fd19a5f5ee1
+- Bundle sessions: builder 8c184a8f, coordinator ac0a783e (reviser step done by coordinator — subagent spawn failed with database reservation error; golf 2 const -> 1 line, main.ts 1358 -> 1352 bytes)
+- Local check: reproduces PASS 81.2% (26/32, main.ts 22 authored), revised PASS (2 messages); 15 passed, 1 failed (competition_open wrong-kit artifact), 6 skipped
+- Gate: entry.txt 139 bytes, sha256 1034ceef6c1240a93880d4ccd24cddc5cfbd06677762dcd3ba7038d565b01266, no trailing newline
+- Anchor: drand quicknet round 34272297 (root commit 299d48f, scheme drand-quicknet)
+- Server status: (to verify after submit)
+- Claim code: AF-QBP9K-8W2JB-3VMT6-W9474
+- Payout wallet: 7quNSmAwm7p6omEVmvXgPs6p6rM6VrmeQAoJK1KsWne4
